@@ -1,0 +1,6 @@
+F:\Programming\CSharp\Some Algorithms\Some Algorithms\bin\Debug\Some Algorithms.exe.config
+F:\Programming\CSharp\Some Algorithms\Some Algorithms\obj\Debug\Some Algorithms.csprojResolveAssemblyReference.cache
+F:\Programming\CSharp\Some Algorithms\Some Algorithms\bin\Debug\Some Algorithms.exe
+F:\Programming\CSharp\Some Algorithms\Some Algorithms\bin\Debug\Some Algorithms.pdb
+F:\Programming\CSharp\Some Algorithms\Some Algorithms\obj\Debug\Some Algorithms.exe
+F:\Programming\CSharp\Some Algorithms\Some Algorithms\obj\Debug\Some Algorithms.pdb
